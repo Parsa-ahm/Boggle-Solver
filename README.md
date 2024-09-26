@@ -110,23 +110,3 @@ This starts the Rust server on `localhost:8080`.
 3. View the solved words and their paths on the board.
 4. Use the accordion feature to collapse/expand results by letter.
 
-## Future Improvements
-
-- **Multi-Language Support**: Add the ability to solve Boggle boards in different languages.
-- **Word Definition Lookup**: Integrate a dictionary API to display definitions for found words.
-- **Mobile Optimization**: Further improve responsiveness and user interaction on mobile devices.
-- **Performance Benchmarking**: Add benchmarking tools to measure the efficiency of the algorithm under various conditions.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at [your-email@example.com].
-
----
-
-This README gives a detailed overview of your project, emphasizing the skills and knowledge you demonstrated. It’s structured in a professional way and can easily be added to your GitHub repository. Let me know if you need further customization!
